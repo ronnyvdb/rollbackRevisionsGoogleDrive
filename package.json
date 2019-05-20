@@ -1,0 +1,29 @@
+{
+  "name": "rollbackrevisionsgoogledrive",
+  "version": "1.0.0",
+  "description": "Rolls back all files in your Google Drive",
+  "main": "app.js",
+  "dependencies": {
+    "googleapis": "^39.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronnyvdb/rollbackRevisionsGoogleDrive.git"
+  },
+  "keywords": [
+    "Google",
+    "Drive",
+    "Revisions",
+    "Rollback"
+  ],
+  "author": "Ronny van den Bergh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronnyvdb/rollbackRevisionsGoogleDrive/issues"
+  },
+  "homepage": "https://github.com/ronnyvdb/rollbackRevisionsGoogleDrive#readme"
+}
